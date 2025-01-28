@@ -1,12 +1,31 @@
-## Hi there 👋
+<img src='resources/nerficg_banner.png' width=100%>
 
-<!--
+![Python](https://img.shields.io/static/v1?label=Python&message=3.11&color=success&logo=Python)&nbsp;![PyTorch](https://img.shields.io/static/v1?label=Pytorch&message=2.5&color=success&logo=PyTorch)&nbsp;![CUDA](https://img.shields.io/static/v1?label=CUDA&message=11.8&color=success&logo=NVIDIA)&nbsp;![OS](https://img.shields.io/static/v1?label=OS&message=Linux&color=success&logo=Linux)&nbsp;[![License: MIT](https://img.shields.io/badge/License-MIT-success.svg)](https://opensource.org/licenses/MIT)
 
-**Here are some ideas to get you started:**
+# Welcome to the NeRFICG project page!
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+NeRFICG is a flexible PyTorch framework for simple and efficient implementation of neural radiance fields and rasterization-based view synthesis methods, including a GUI for interactive rendering.
+
+## Project structure
+This project is distributed in multiple subrepositories.
+Check out the [main repository](https://github.com/nerficg-project/icgui) as a starting point for further instructions.
+
+## Popular  Methods
+Coming soon!
+
+## License and Citation
+
+This framework is licensed under the [MIT license](https://github.com/nerficg-project/nerficg/blob/main/LICENSE).
+
+If you use it in your research projects, please consider a citation:
+```bibtex
+@software{nerficg,
+    author = {Kappel, Moritz and Hahlbohm, Florian and Scholz, Timon},
+    license = {MIT},
+    month = {1},
+    title = {{nerficg}},
+    url = {https://github.com/nerficg-project},
+    version = {1.0},
+    year = {2025}
+}
+```
