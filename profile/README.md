@@ -32,7 +32,7 @@ If you use it in your research projects, please consider a citation:
     author = {Kappel, Moritz and Hahlbohm, Florian and Scholz, Timon},
     license = {MIT},
     month = {1},
-    title = {{nerficg}},
+    title = {NeRFICG},
     url = {https://github.com/nerficg-project},
     version = {1.0},
     year = {2025}
