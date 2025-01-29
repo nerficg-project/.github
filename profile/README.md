@@ -6,9 +6,18 @@
 
 NeRFICG is a flexible PyTorch framework for simple and efficient implementation of neural radiance fields and rasterization-based view synthesis methods, including a GUI for interactive rendering.
 
+<div class="image-row">
+<a href="resources/teaser_videos/inpc.mp4">
+    <img src="resources/teaser_videos/inpc.gif" width="48%"/>
+</a>
+<a href="resources/teaser_videos/dnpc.mp4">
+    <img src="resources/teaser_videos/dnpc.gif" width="48%"/>
+</a>
+</div>
+
 ## Project structure
 This project is distributed in multiple subrepositories.
-Check out the [main repository](https://github.com/nerficg-project/icgui) as a starting point for further instructions.
+Check out the [main repository](https://github.com/nerficg-project/nerficg) as a starting point for further instructions.
 
 ## Popular  Methods
 Coming soon!
