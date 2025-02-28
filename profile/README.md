@@ -20,7 +20,10 @@ This project consists of multiple subrepositories.
 Check out the [main repository](https://github.com/nerficg-project/nerficg) as a starting point for further instructions.
 
 ## Popular  Methods
-Coming soon!
+- [DNPC](https://github.com/MoritzKappel/D-NPC) - An efficient high-quality method for dynamic scene reconstruction from monocular video.
+- [MoNeRF](https://github.com/MoritzKappel/MoNeRF) - An extremely fast neural radiance field approach for monocularized sequences like the [D-NeRF](https://github.com/albertpumarola/D-NeRF) dataset.
+
+More coming soon!
 
 ## License and Citation
 
